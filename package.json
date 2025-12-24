@@ -1,6 +1,14 @@
 {
+  "name": "financial-data-analysis-using-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
   "dependencies": {
     "@massive.com/client-js": "^10.1.0",
-    "@openrouter/sdk": "^0.3.10"
+    "@openrouter/sdk": "^0.3.10",
+    "dotenv": "^17.2.3"
   }
 }
