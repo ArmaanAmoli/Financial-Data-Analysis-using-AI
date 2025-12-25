@@ -9,6 +9,7 @@
   "dependencies": {
     "@massive.com/client-js": "^10.1.0",
     "@openrouter/sdk": "^0.3.10",
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "lightweight-charts": "^5.1.0"
   }
 }
